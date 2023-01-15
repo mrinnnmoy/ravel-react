@@ -13,7 +13,7 @@ const Navbar = () => {
     html.addEventListener("click", (e) => setIsNavOpen(false));
 
     return (
-        <container state={isNavOpen ? 1 : 0}>
+        <container className="nav-container" state={isNavOpen ? 1 : 0}>
             <div className="brand">
                 <img src={Logo} alt="logo" />
             </div>
