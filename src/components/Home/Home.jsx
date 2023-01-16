@@ -22,8 +22,10 @@ const Home = () => {
                         <div className="row">
                             <label>Destinations</label>
                             <select>
-                                <option>Arab Egypt</option>
-                                <option>Udaipur India</option>
+                                <option>London, UK</option>
+                                <option>Udaipur, India</option>
+                                <option>Rajasthan, India</option>
+                                <option>Rameshwaram, Chennai</option>
                             </select>
                         </div>
                         <div className="row">
