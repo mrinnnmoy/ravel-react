@@ -1,4 +1,5 @@
 import React from 'react';
+import "./Destinations.scss";
 import cuba from "../../assets/cuba.png";
 import paris from "../../assets/paris.png";
 import japan from "../../assets/japan.png";
