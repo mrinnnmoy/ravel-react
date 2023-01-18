@@ -3,6 +3,7 @@ import Destinations from './components/Destinations/Destinations';
 import Home from './components/Home/Home';
 import Navbar from './components/Navbar/Navbar';
 import Offer from './components/Offer/Offer';
+import ScrollToTop from './components/ScrollToTop/ScrollToTop';
 import Services from './components/Services/Services';
 import Tours from './components/Tours/Tours';
 
@@ -19,6 +20,7 @@ const App = () => {
       <Testimonial />
       <DownloadApp />
       <Footer /> */}
+      <ScrollToTop />
       <Navbar />
       <Home />
       <Services />
