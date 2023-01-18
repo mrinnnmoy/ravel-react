@@ -7,7 +7,7 @@ const Home = () => {
     const [value, setValue] = useState("$500 - $10,000");
 
     return (
-        <section className="home-section">
+        <section className="home-section" id="Home">
             <div className="background">
                 <img src={HeroImage} alt="Hero" />
             </div>

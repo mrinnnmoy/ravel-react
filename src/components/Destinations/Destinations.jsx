@@ -22,7 +22,7 @@ const Destinations = () => {
     ];
 
     return (
-        <section className="destination-section" id="destination">
+        <section className="destination-section" id="Destination">
             <div className="info">
                 <h2>
                     Top <span>Destinations</span> In The World
