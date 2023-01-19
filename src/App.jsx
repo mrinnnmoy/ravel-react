@@ -5,6 +5,7 @@ import Navbar from './components/Navbar/Navbar';
 import Offer from './components/Offer/Offer';
 import ScrollToTop from './components/ScrollToTop/ScrollToTop';
 import Services from './components/Services/Services';
+import Testimonial from './components/Testimonial/Testimonial';
 import Tours from './components/Tours/Tours';
 
 const App = () => {
@@ -27,6 +28,7 @@ const App = () => {
       <Destinations />
       <Offer />
       <Tours />
+      <Testimonial />
     </div>
   )
 };
