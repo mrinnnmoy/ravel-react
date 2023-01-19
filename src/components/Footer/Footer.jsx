@@ -28,18 +28,18 @@ const Footer = () => {
                             <img src={logo} alt="logo" />
                         </div>
                         <p className="description">
-                            You can dream, create, design, and build the most wonderful place.
+                            Dream, create, design and build the most wonderful place.
                         </p>
                     </div>
                     <ul>
                         <li>
-                            <span>+01 123456789</span>
+                            <span>+01-123456789</span>
                         </li>
                         <li>
                             <span>ravel@info.com</span>
                         </li>
                         <li>
-                            <span>ravel.com</span>
+                            <span>ravel.in</span>
                         </li>
                     </ul>
                 </div>
