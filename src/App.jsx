@@ -1,6 +1,7 @@
 import React from 'react';
 import Destinations from './components/Destinations/Destinations';
 import DownloadApp from './components/DownloadApp/DownloadApp';
+import Footer from './components/Footer/Footer';
 import Home from './components/Home/Home';
 import Navbar from './components/Navbar/Navbar';
 import Offer from './components/Offer/Offer';
@@ -21,6 +22,7 @@ const App = () => {
       <Tours />
       <Testimonial />
       <DownloadApp />
+      <Footer />
     </div>
   )
 };
