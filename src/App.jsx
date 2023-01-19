@@ -12,16 +12,6 @@ import Tours from './components/Tours/Tours';
 const App = () => {
   return (
     <div>
-      {/* <ScrollToTop />
-      <Navbar />
-      <Home />
-      <Services />
-      <Destinations />
-      <Offer />
-      <Tours />
-      <Testimonial />
-      <DownloadApp />
-      <Footer /> */}
       <ScrollToTop />
       <Navbar />
       <Home />
